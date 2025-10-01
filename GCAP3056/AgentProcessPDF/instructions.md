@@ -4,12 +4,9 @@
 **File**: `AgentProcessPDF/article.pdf`
 
 ## Processing Steps
-1. Extract text from all pages
-2. Convert to markdown format
-3. Clean up formatting
+write a python codes to convert the file into md and output to the output file 
+place the python codes to /workspaces/vibeCoding101-Simon/GCAP3056/AgentProcessPDF/convert2md.py
 
 ## Output File
 **File**: `AgentProcessPDF/converted_article.md`
 
-## Instructions for AI Agent
-Read this file and process the PDF file according to the steps above.

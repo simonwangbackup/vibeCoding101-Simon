@@ -1,5 +1,5 @@
-Input: add file paths or folder paths here 
+Input: /workspaces/vibeCoding101-Simon/GCAP3056/AgentProcessVTT/lecture.vtt
 
-Instructions: tell the agent what to do with the input
+Instructions: read through the input file and generate a summary including key insights from Simon's first week lecture
 
-output: add file or folder paths here where the output will be delivered
+output: /workspaces/vibeCoding101-Simon/GCAP3056/AgentProcessVTT/processed_lecture.md
